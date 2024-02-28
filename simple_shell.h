@@ -10,6 +10,6 @@
 #define MAX_NUM_ARGS 10
 
 /* Function Prototypes */
-int command_exists(char* cmd);
+int command_exists(char *cmd);
 
 #endif
